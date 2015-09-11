@@ -1,3 +1,6 @@
+Isso é apenas uma tradução do texto do repositorio original, sendo assim,
+a mesma licença é aplicada.
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Luke Hoban
